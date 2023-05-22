@@ -1,0 +1,2 @@
+python -m venv venv ---> Virtual Enviroment
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted ---> Error
